@@ -14,4 +14,4 @@ If you finish the lesson, feel free to take a stab at the `Winning Hand` lab.
 
 When you've finished `iPhone Organizer With CSS Positioning`,  you know the drill, screenshot the organized iPhone or your code and share with **\#flatironcodeclub** and **\#iphoneorganizer**.
 
-You even finished `Winning Hand`. Share your handiwork with **\#pokerhack`.
+You even finished `Winning Hand`, share your handiwork with **\#pokerhack**.
