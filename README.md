@@ -9,3 +9,9 @@ Last club meeting, you learned all about the Box Model and how you can use it se
 You're going to be tackling the lesson `iPhone Organizer With CSS Positioning`. This lesson will teach you all about absolute and relative positioning with CSS to reorganize the icons on your iPhone.
 
 If you finish the lesson, feel free to take a stab at the `Winning Hand` lab.
+
+## Share Share Share!
+
+Finished `iPhone Organizer With CSS Positioning`? You know the drill, screen shot the organized iPhone or your code and share with **\#flatironcodeclub** and **\#iphoneorganizer**.
+
+You even finished `Winning Hand`. Share your handiwork with **\#pokerhack`.
