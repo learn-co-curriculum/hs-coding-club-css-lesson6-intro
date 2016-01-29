@@ -16,4 +16,4 @@ When you've finished `iPhone Organizer With CSS Positioning`,  you know the dril
 
 You even finished `Winning Hand`, share your handiwork with **\#pokerhack**.
 
-<a href='https://learn.co/lessons/hs-coding-club-css-lesson6-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-css-lesson6-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
